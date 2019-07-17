@@ -16,7 +16,7 @@ LegacyEnable: set to YES
 LegacySchema: NVRAM variables set
 (OpenCore compares these to the variables present in nvram.plist)
 
-Once those are set, Compile the latest version of OpenCore and you want to run the LogoutHook.command found in OpenCore - EFI/OC/Utilities/LogoutHook. This will create a new folder, which dumps the basic output. And  you'll find a plist file named nvram.plist. Place this in the root of your EFI Folder and you'll now have emulated NVRAM.
+Once those are set, Compile the latest version of OpenCore and you want to run the LogoutHook.command found in OpenCore - EFI/OC/Utilities/LogoutHook.command This will create a new folder, which dumps the basic output. And  you'll find a plist file named nvram.plist. Place this in the root of your EFI Folder and you'll now have emulated NVRAM.
 
 ![NVRAM Tool](https://i.imgur.com/lAegCiD.png)
 
