@@ -2,7 +2,7 @@
  
  
 
-Opencore Emulated NVRAM for Non Supported NVRAM Motherboards
+Opencore Emulated NVRAM for Non Supported NVRAM Motherboards.
 
 
 This is a small guide for users of opencore, that don't have working NVRAM, There are certain motherboards that will not support native NVRAM including Z390.
