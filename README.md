@@ -18,7 +18,7 @@ Creating Your NVRAM.plist
 
 ![NVRAM Tool](https://i.imgur.com/lAegCiD.png)
 
-So to creat a nvram.plist 2 aspects are needed in your config.plist:
+So to create a nvram.plist 2 aspects are needed in your config.plist:
 
 LegacyEnable: set to YES
 
