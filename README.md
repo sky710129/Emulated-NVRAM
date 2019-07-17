@@ -2,17 +2,10 @@
  
  
 
-Opencore Emulated NVRAM
+Opencore Emulated NVRAM for Non Supported NVRAM Motherboards
 
 
-This is a small guide for users that use opencore, that don't have working NVRAM, There is certain motherboards that will not support native NVRAM and are the non-Z370 300 series chipsets:
-
-B360
-B365
-H310
-H370
-Q370
-Z390
+This is a small guide for users that use opencore, that don't have working NVRAM, There is certain motherboards that will not support native NVRAM including Z390.
 
 Creating Your NVRAM.plist
 
