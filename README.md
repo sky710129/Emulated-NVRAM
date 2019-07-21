@@ -1,4 +1,4 @@
-# Emulated NVRAM
+![logo](https://i.imgur.com/Pidc3sl.png)
  
  
 
